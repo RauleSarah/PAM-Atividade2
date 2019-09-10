@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aula6 Segunda Atividade</string>
+    <string name="DADOS">Dados Basicos</string>
+    <string name="DADOS2">Dados Adicionais</string>
+    <string name="NOME">Nome </string>
+    <string name="EMAIL">E-mail </string>
+    <string name="DADOSA">Dados Adicionais</string>
+    <string name="ENDERECO">Endereço </string>
+    <string name="TELEFONE">Telefone </string>
+</resources>
