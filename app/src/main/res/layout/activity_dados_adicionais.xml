@@ -60,4 +60,5 @@
         android:inputType="textPersonName"
         app:layout_constraintBaseline_toBaselineOf="@+id/lblTelefone"
         app:layout_constraintStart_toEndOf="@+id/lblTelefone" />
+
 </android.support.constraint.ConstraintLayout>
